@@ -23,7 +23,7 @@
 define( 'DB_NAME', 'ti_summit' );
 
 /** MySQL database username */
-define( 'DB_USER', 'tissqlsrv' );
+define( 'DB_USER', 'tissqlsrv@tissrv' );
 
 /** MySQL database password */
 define( 'DB_PASSWORD', '0RVP05bo8h5x' );
